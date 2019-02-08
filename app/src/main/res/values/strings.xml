@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SnackBar Demo</string>
+    <string name="singleLine">Single Line SnackBar</string>
+    <string name="actionSnackBar">SnackBar with Action</string>
+    <string name="multiColor">Multi Colored SnackBar</string>
+    <string name="customColors">Custom Color SnackBar</string>
+
+</resources>
